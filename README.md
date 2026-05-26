@@ -1,5 +1,3 @@
-# Łukasz Połkowski
-
 **Python developer** with a focus on bioinformatics, computer vision, and automation.
 Currently building toward a career in **biotech / pharma** software engineering.
 
@@ -42,4 +40,4 @@ Tools        Git · CMake · Flutter · FastAPI · PyQt5
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lukaszplk-blue?logo=linkedin)](https://linkedin.com/in/lukaszplk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lukasz--polowski-blue?logo=linkedin)](https://www.linkedin.com/in/lukasz-polowski/)
